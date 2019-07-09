@@ -1,0 +1,7 @@
+id,first_name,last_name,email,username,password,contact,address,gender,user_type,added_date,added_by
+1,Vijay,Thapa,vijaythapa333@gmail.com,vijaythapa333,123456,436378969769,Kathmandu Nepal,Male,User,2017-12-11 18:25:46,1
+2,John,Cena,jhngmail.com,jhncna,123,99098,USA,Male,User,2017-12-11 18:29:32,1
+3,Kane,noname,kan@email.com,kane33,928972894,7376443968,USA,Male,User,2017-12-11 18:32:39,1
+7,Master,Admin,admin@gmail.com,admin,admin,0983094806,Kathmandu,Male,Admin,2018-01-08 12:24:35,1
+8,Normal,User,user@gmail.com,user,user,049386983,Kathmandu,Female,User,2018-01-08 12:25:11,1
+9,Test,User,test@gmail.com,test,test,893528935732,Lalitpur,Female,User,2018-01-08 13:17:44,7
